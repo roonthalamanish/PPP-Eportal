@@ -1,0 +1,32 @@
+2018-07-18 10:20:15,417 - LoggingExample - ERROR - File Not Found
+java.io.FileNotFoundException: C:\Users\training_d5.01.02\Desktop\MRPage.html (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at log4jexmpkg.firstlog4j.main(firstlog4j.java:23)
+2018-07-18 10:20:15,438 - LoggingExample - WARN - This is a warning message
+2018-07-18 10:30:03,140 - LoggingExample - ERROR - File Not Found
+java.io.FileNotFoundException: C:\Users\training_d5.01.02\Desktop\MRPage1.html (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at log4jexmpkg.firstlog4j.main(firstlog4j.java:23)
+2018-07-18 10:30:03,146 - LoggingExample - WARN - This is a warning message
+2018-07-18 10:30:17,338 - LoggingExample - ERROR - File Not Found
+java.io.FileNotFoundException: C:\Users\training_d5.01.02\Desktop\MRPage1.html (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at log4jexmpkg.firstlog4j.main(firstlog4j.java:23)
+2018-07-18 10:30:17,344 - LoggingExample - WARN - This is a warning message
+2018-07-18 10:30:27,739 - LoggingExample - ERROR - File Not Found
+java.io.FileNotFoundException: C:\Users\training_d5.01.02\Desktop\MRPage12.html (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at log4jexmpkg.firstlog4j.main(firstlog4j.java:23)
+2018-07-18 10:30:27,745 - LoggingExample - WARN - This is a warning message
